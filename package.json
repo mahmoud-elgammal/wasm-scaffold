@@ -1,0 +1,14 @@
+{
+  "name": "wasm-scaffold",
+  "version": "1.0.0",
+  "main": "./dist/wasm_scaffold.js",
+  "types": "./dist/wasm_scaffold.d.ts",
+  "scripts": {
+    "build": "wasm-pack build --out-dir ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
